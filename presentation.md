@@ -1,8 +1,10 @@
 
-## Why learn git?
+## Why Learn `git`?
 - version control
 - 👭 promotes collaboration
 - 🏭 industry standard
+- 🌎 language inlusive 
+- 🛠 interfaces with other tools (testing and deployment platforms)
 - 💸 free (and open source)
 
 ## Common Terms:
@@ -15,15 +17,23 @@
 - **branch:** a copy of the repository which you can diff against the master branch
 - **fork / clone** Cloning is still connected to the original remote. Forking makes a copy so a full copy of the repo with a new master branch is saved under your username. 
 
-## Basic commands
+## Basic Commands
 - `git checkout -b` 
 - `git status`
 - `git diff`
 - `git add`
 
-## Workflows and tips
+## Workflows & Tips
 - 🌴 always work on a branch
 - make PRs
 - :female_detective: how to troubleshoot: 1. ask colleagues/collaborators 2. google it
 - get reviews
 - :book: make a useful readme and keep it updated
+- add useful commit messages, even for 'insignificant' changes
+
+## Command Line vs Desktop Tool
+- demonstration 
+
+## Practice and Questions 🙋 
+- 👯 Try cloning or forking my repo
+- Can you find and correct my typo(s) 🤦‍♂️ 
