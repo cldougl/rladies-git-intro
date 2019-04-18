@@ -1,2 +1,2 @@
 # rladies-git-intro
-Basic intro to git
+Introduction to `git` where we discuss bassic commands, common workflows, and tips.
