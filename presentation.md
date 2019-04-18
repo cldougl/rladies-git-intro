@@ -3,23 +3,23 @@
 - version control
 - 👭 promotes collaboration
 - 🏭 industry standard
-- 🌎 language inclusive 
+- 🌎 language inclusive
 - 🛠 interfaces with other tools (testing and deployment platforms)
 - 💸 free (and open source)
 
 ## Common Terms:
-- **git / Github:** Github: github.com (ie a hosting service). Git is a tool/system for version control management. 
+- **git / Github:** Github: github.com (ie a hosting service). Git is a tool/system for version control management.
 - **repository (repo):** directory or group of files
-- **local / remote:** the copy of code on your machine vs the copy that is hosted 
+- **local / remote:** the copy of code on your machine vs the copy that is hosted
 - **pull request (pr):** a request to merge changes into a different branch
 - **diff:** the changes made from one version compared to another
-- **master:** default branch 
+- **master:** default branch
 - **branch:** a copy of the repository which you can diff against the master branch
-- **fork / clone** Cloning is still connected to the original remote. Forking makes a copy so a full copy of the repo with a new master branch is saved under your username. 
+- **fork / clone** Cloning is still connected to the original remote. Forking makes a copy so a full copy of the repo with a new master branch is saved under your username.
 
 ## Basic Commands
 - `git clone <repo>`
-- `git checkout -b <branch_name>` 
+- `git checkout -b <branch_name>`
 - `git branch`
 - `git status`
 - `git diff`
@@ -33,19 +33,19 @@
 - :female_detective: how to troubleshoot: 1. ask colleagues/collaborators 2. google it
 - get reviews
 - :book: make a useful readme and keep it updated
-- thoughtfully bundle your commits 🤔 
+- thoughtfully bundle your commits 🤔
 - add useful commit messages, even for 'insignificant' changes
-- commit often 
+- commit often
 
 ## Command Line vs Desktop Tool
-- demonstration 
+- demonstration
 
-## Practice and Questions 🙋 
+## Practice and Questions 🙋
 - 👯 Try cloning or forking my repo
-- Can you find and correct my typo(s) 🤦‍♂️ 
+- Can you find and correct my typo(s) 🤦‍♂️
 
 ## Useful Resources:
-[git immersion](http://gitimmersion.com/)
-[Oh S\*\*\* Git](https://ohshitgit.com/)
-[Git: the simple guide](http://rogerdudler.github.io/git-guide/)
-[Git in a nutshell](https://xkcd.com/1597/)
+- 👩‍🏫 [git immersion](http://gitimmersion.com/)
+- 💩 [Oh S\*\*\* Git](https://ohshitgit.com/)
+- 🤩 [Git: the simple guide](http://rogerdudler.github.io/git-guide/)
+- 🥜 [Git in a nutshell](https://xkcd.com/1597/)
