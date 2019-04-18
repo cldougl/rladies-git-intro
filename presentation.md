@@ -3,7 +3,7 @@
 - version control
 - 👭 promotes collaboration
 - 🏭 industry standard
-- 🌎 language inlusive 
+- 🌎 language inclusive 
 - 🛠 interfaces with other tools (testing and deployment platforms)
 - 💸 free (and open source)
 
@@ -43,3 +43,9 @@
 ## Practice and Questions 🙋 
 - 👯 Try cloning or forking my repo
 - Can you find and correct my typo(s) 🤦‍♂️ 
+
+## Useful Resources:
+[git immersion](http://gitimmersion.com/)
+[Oh S\*\*\* Git](https://ohshitgit.com/)
+[Git: the simple guide](http://rogerdudler.github.io/git-guide/)
+[Git in a nutshell](https://xkcd.com/1597/)
