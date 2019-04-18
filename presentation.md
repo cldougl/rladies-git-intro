@@ -18,10 +18,14 @@
 - **fork / clone** Cloning is still connected to the original remote. Forking makes a copy so a full copy of the repo with a new master branch is saved under your username. 
 
 ## Basic Commands
-- `git checkout -b` 
+- `git clone <repo>`
+- `git checkout -b <branch_name>` 
+- `git branch`
 - `git status`
 - `git diff`
 - `git add`
+- `git commit -m 'useful message about the commit'`
+- `git push origin <branch name>`
 
 ## Workflows & Tips
 - 🌴 always work on a branch
@@ -29,7 +33,9 @@
 - :female_detective: how to troubleshoot: 1. ask colleagues/collaborators 2. google it
 - get reviews
 - :book: make a useful readme and keep it updated
+- thoughtfully bundle your commits 🤔 
 - add useful commit messages, even for 'insignificant' changes
+- commit often 
 
 ## Command Line vs Desktop Tool
 - demonstration 
