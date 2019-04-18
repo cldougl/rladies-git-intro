@@ -1,8 +1,12 @@
 # rladies-git-intro
 Basic intro to git
 
-### Why use git
+## Why learn git?
+- version control
+- collaboration
+- free (and open source)
 
-### Basic workflows
+## Basic commands
 
-### Useful collaboration commands 
+## Workflows and tips
+
